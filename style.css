@@ -165,7 +165,7 @@
  /* home section styling */
  .home{
      display: flex;
-     background: url("images/banner.avif") no-repeat center;
+     background: url("https://github.com/amankhan100/portfolio/blob/371edede2e2565d7bca74d3dec920d72469200c0/image2.webp") no-repeat center;
      height: 100vh;
      color: #ffffff;
      min-height: 500px;
